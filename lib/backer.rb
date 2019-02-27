@@ -1,4 +1,4 @@
-class Backer 
+class Backer
 
 
 end
