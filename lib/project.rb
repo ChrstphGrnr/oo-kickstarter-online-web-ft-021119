@@ -13,7 +13,6 @@ class Project
     @backers << backer
     # binding.pry
     backer.backed_projects << self
-
   end
 
 
